@@ -1,11 +1,11 @@
 
-# :outbox_tray: Upload
+# Upload
 
 Folder ini berisi penerapan upload file dengan bahasa pemrograman PHP. Materi yang dibahas meliputi:
-* Mengupload file
-* Menghapus file
+* Upload file
+* Hapus file
 
-## :package: Prasyarat
+## Prasyarat
 
 Sebelum memulai, pastikan telah terinstall:
 * MySQL atau MariaDB
@@ -29,7 +29,7 @@ Sebelum memulai, pastikan telah terinstall:
 ├── register.php
 ```
 
-## :computer: Langkah Kerja
+## Langkah Kerja
 
 * Tambahkan script di file `config.php`.
 
@@ -175,5 +175,3 @@ Sebelum memulai, pastikan telah terinstall:
 
     * `enctype="multipart/form-data"` mengizinkan form mengirim file.
     * `<input value="<?= $user["avatar"]; ?>" type="hidden" name="old_avatar">` menyimpan data nama file foto profile yang sekarang dipakai. Menggunakan atribut `type="hidden"` karena tidak butuh untuk ditampilkan dalam form.
-
-> Note: simpan folder pada directory `C:\xampp\htdocs` jika menggunakan XAMPP atau jalankan perintah `php -S localhost:8000` untuk menggunakan php server.
