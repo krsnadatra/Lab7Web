@@ -1,12 +1,9 @@
 
-# :trident: Codeigniter Routing
+# Codeigniter Routing
 
 Folder ini berisi penerapan autentifikasi pada bahasa pemrograman PHP. Materi yang dibahas meliputi:
-* 
-* 
-* 
 
-## :package: Prasyarat
+## Prasyarat
 
 Sebelum memulai, pastikan telah terinstall:
 * MySQL atau MariaDB
@@ -17,9 +14,8 @@ Sebelum memulai, pastikan telah terinstall:
 * Materi P1-Design
 * Framework codeigniter
 
-> Note: framework codeigniter dapat didownload [disini](https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/refs/tags/3.1.11).
 
-**Struktur Folder P1-Design**
+**Struktur Folder Design**
 
 ```text
 ├── application
@@ -38,9 +34,7 @@ Sebelum memulai, pastikan telah terinstall:
 └── readme.rst
 ```
 
-> Note: file `sosmed.sql` dapat dihapus.
-
-## :computer: Langkah Kerja
+## Langkah Kerja
 
 * Import database `sosmed.sql` yang ada di materi P1-Design jika belum ada.
 * Ubah semua format file `.html` yang ada di materi P1-Design ke format `.php`.
