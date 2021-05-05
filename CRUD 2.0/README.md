@@ -1,11 +1,11 @@
 
-# :memo: CRUD
+# CRUD
 
 Folder ini berisi penerapan update dan delete data dengan bahasa pemrograman PHP. Materi yang dibahas meliputi:
 * Mengubah data
 * Menghapus data
 
-## :package: Prasyarat
+## Prasyarat
 
 Sebelum memulai, pastikan telah terinstall:
 * MySQL atau MariaDB
@@ -29,7 +29,7 @@ Sebelum memulai, pastikan telah terinstall:
 ├── register.php
 ```
 
-## :computer: Langkah Kerja
+## Langkah Kerja
 
 * Ubah format file `profile.html` menjadi `.php`.
 * Buka file `profile.php`, ubah `<a href="index.html">` menjadi `<a href="index.php">` dan `<a href="profile.html">` menjadi `<a href="profile.php">`.
