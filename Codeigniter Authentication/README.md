@@ -1,12 +1,12 @@
 
-# :closed_lock_with_key: Codeigniter Authentication
+# Codeigniter Authentication
 
 Folder ini berisi penerapan autentifikasi pada bahasa pemrograman PHP. Materi yang dibahas meliputi:
 * 
 * 
 * 
 
-## :package: Prasyarat
+## Prasyarat
 
 Sebelum memulai, pastikan telah terinstall:
 * MySQL atau MariaDB
@@ -15,5 +15,3 @@ Sebelum memulai, pastikan telah terinstall:
 * Web browser
 * Web server
 * Materi P6-Codeigniter Routing
-
-## :computer: Langkah Kerja
