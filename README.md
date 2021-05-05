@@ -5,7 +5,7 @@
 
 # PHP Dasar
 
-Repository ini berisi projek aplikasi berbasis web yang menerapkan dasar - dasar bahasa pemrograman PHP. Materi yang terdapat pada repository ini diantaranya:
+Meliputi :
 * Design
 * Authentication
 * CRUD
