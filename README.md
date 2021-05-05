@@ -1,14 +1,18 @@
+# I Gede Krishna Yogananda
 
-# :bulb: PHP Dasar
+# TI 19 A2 . 311910429
+
+
+# PHP Dasar
 
 Repository ini berisi projek aplikasi berbasis web yang menerapkan dasar - dasar bahasa pemrograman PHP. Materi yang terdapat pada repository ini diantaranya:
-* P1-Design
-* P2-Authentication
-* P3-CRUD
-* P4-CRUD
-* P5-Upload
+* Design
+* Authentication
+* CRUD
+* CRUD 2.0
+* Upload
 
-## :package: Prasyarat
+## Prasyarat
 
 Sebelum memulai, pastikan telah terinstall:
 * MySQL atau MariaDB
@@ -17,25 +21,19 @@ Sebelum memulai, pastikan telah terinstall:
 * Web browser
 * Web server
 
-## :open_file_folder: Struktur Projek
+## Struktur Projek
 
 ```text
-├── P1-Design
+├── Design
 │   └── ...
-├── P2-Authentication
+├── Authentication
 │   └── ...
-├── P3-CRUD
+├── CRUD
 │   └── ...
-├── P4-CRUD
+├── CRUD 2.0
 │   └── ...
-├── P5-Upload
+├── Upload
 │   └── ...
 ├── LICENSE
 └── README.md
 ```
-
->Note: materi akan diupload tiap pekan selama praktikum berlangsung.
-
-## :balance_scale: Lisensi
-
-[MIT License](https://github.com/kunkoder/php-dasar/blob/main/LICENSE)
