@@ -242,4 +242,3 @@ Sebelum memulai, pastikan telah terinstall:
 	* `<p><?= $post["content"]; ?></p>` mengambil data dari table post kolom `content`.
 	* `<?php endforeach; ?>` mengakhiri perulangan.
 
-> Note: simpan folder pada directory `C:\xampp\htdocs` jika menggunakan XAMPP atau jalankan perintah `php -S localhost:8000` untuk menggunakan php server.
