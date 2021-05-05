@@ -9,4 +9,4 @@ Sebelum memulai, pastikan telah terinstall:
 * Text editor
 * Web browser
 * Web server
-* Materi P6-Codeigniter Routing
+* Materi Codeigniter Routing
