@@ -1,11 +1,6 @@
 
 # Codeigniter Authentication
 
-Folder ini berisi penerapan autentifikasi pada bahasa pemrograman PHP. Materi yang dibahas meliputi:
-* 
-* 
-* 
-
 ## Prasyarat
 
 Sebelum memulai, pastikan telah terinstall:
