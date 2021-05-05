@@ -1,5 +1,5 @@
 
-# CRUD
+# CRUD 2.0
 
 Folder ini berisi penerapan update dan delete data dengan bahasa pemrograman PHP. Materi yang dibahas meliputi:
 * Mengubah data
