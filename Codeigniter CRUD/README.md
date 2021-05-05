@@ -1,12 +1,9 @@
 
-# :memo: Codeigniter CRUD
+#  Codeigniter CRUD
 
 Folder ini berisi penerapan autentifikasi pada bahasa pemrograman PHP. Materi yang dibahas meliputi:
-* 
-* 
-* 
 
-## :package: Prasyarat
+## Prasyarat
 
 Sebelum memulai, pastikan telah terinstall:
 * MySQL atau MariaDB
@@ -14,6 +11,4 @@ Sebelum memulai, pastikan telah terinstall:
 * Text editor
 * Web browser
 * Web server
-* Materi P7-Codeigniter Authentication
-
-## :computer: Langkah Kerja
+* Materi Codeigniter Authentication
